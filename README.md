@@ -54,6 +54,13 @@
 ---
 
 # 📸 Screenshots (Add Your Own)
+## 📸 Project Screenshots
+
+### 🐾 Home Page
+![Home Screenshot](PawSotre-A-Pet-Adoption-System/server/images/ss1.png)
+
+### 🐾 Adoption Form
+![Adoption Screenshot](PawSotre-A-Pet-Adoption-System/server/images/ss2.png)
 
 Place your screenshots inside the `/assets` folder:
 
